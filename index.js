@@ -1,6 +1,6 @@
 let vault = {};
 
-exports.default = {
+module.exports = {
     addGroup: (name, values) => {
         vault[name] = values;
     },
