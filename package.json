@@ -1,11 +1,16 @@
 {
   "name": "constants-vault",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "",
   "main": "index.js",
+  "keywords": ["javascript", "module", "node", "values", "globals", "shared values"],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kristijan-pajtasev/constants-vault.git"
+  },
+  "license": "MIT"
 }
